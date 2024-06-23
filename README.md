@@ -5,18 +5,18 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/FrostT3CH"><img title="Author" src="https://img.shields.io/badge/AYANAKOJI-black?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=shield"/></a>
+<a href="https://github.com/FrostT3CH?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FrostT3CH?label=Followers&style=social"></a>
+<a href="https://github.com/FrostT3CH/Ayana_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FrostT3CH/Ayana_MD?&style=social"></a>
+<a href="https://github.com/FrostT3CH/Ayana_MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FrostT3CH/Ayana_MD?style=social"></a>
+<a href="https://github.com/FrostT3CH/Ayana_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FrostT3CH/Ayana_MD?label=Watching&style=social"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FFrostT3CH%2FAyana_MD?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FFrostT3CH%2FAyana_MD.svg?type=shield"/></a>
 </p>
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+AYANAKOJI - Simple Multi Device whatsapp bot.
 
 ***
 
@@ -24,7 +24,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/FrostT3CH/Ayana_MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -113,9 +113,9 @@ GURU-BOT- Simple Multi Device whatsapp bot.
  
  ## 🤩 Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/IhnvRTNROHSGbHzzTiBWFg"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- Star ⭐ the repo if you like GURU-BOT.
+- Star ⭐ the repo if you like AYANAKOJI BOT.
 
 ## CREDITS 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
@@ -127,9 +127,9 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 
 ## `Main Dev` 
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+<a href="https://github.com/FrostT3CH"><img src="https://github.com/FrostT3CH.png" width="250" height="250" alt="FrostT3CH"/></a>
   
-`GURU-BOT - By Guru322`
+`AYANAKOJI BOT- By FrostT3CH`
 
 ### CONTRIBUTORS
 <a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
@@ -158,5 +158,5 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 
 ## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFrostT3CH%2FAyana_MD.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFrostT3CH%2FAyana_MD?ref=badge_large)
 
