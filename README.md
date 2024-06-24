@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Ayanakoji" height="300" src="https://f.uguu.se/ZBzFAzgj.jpg">
+    <img alt="Ayanakoji" height="300" src="https://f.uguu.se/ubTgXeih.jpg">
     <h1 align="center">AYANAKOJI 2.O</h1>
   </a>
 </p>
@@ -12,7 +12,7 @@
 <a href="https://github.com/FrostT3CH/Ayana_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/FrostT3CH/Ayana_MD?&style=social"></a>
 <a href="https://github.com/FrostT3CH/Ayana_MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/FrostT3CH/Ayana_MD?style=social"></a>
 <a href="https://github.com/FrostT3CH/Ayana_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/FrostT3CH/Ayana_MD?label=Watching&style=social"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FFrostT3CH%2FAyana_MD?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FFrostT3CH%2FAyana_MD.svg?type=shield"/></a>
+<a href="https://app.fossa.com/projects/github.com/FrostT3CH/Ayana_MD?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/github.com/FrostT3CH/Ayana_MD.svg?type=shield"/></a>
 </p>
 
 ####  
